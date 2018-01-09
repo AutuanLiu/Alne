@@ -12,5 +12,6 @@ skorch
 keras
 pipenv>=9.0.1
 sh
-autoenv>=0.2.1
+virtualenv
 notedown
+autoenv
