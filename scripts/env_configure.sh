@@ -55,4 +55,4 @@ echo "source `which activate.sh`" >> ~/.bashrc
 python -m pip install jupyter
 
 # else
-echo "PATH=$condaDir/bin:$PATH" >> ~/.bashrc && bash
+echo "PATH=$condaDir/bin:$PATH" >> ~/.bashrc
