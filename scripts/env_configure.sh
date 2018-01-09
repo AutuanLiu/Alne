@@ -11,7 +11,7 @@
 condaDir=~/softwares/conda
 
 # MiniConda install
-#curl -L https://repo.continuum.io/miniconda/Miniconda3-4.3.27-Linux-x86_64.sh -o ~/anaconda.sh
+curl -L https://repo.continuum.io/miniconda/Miniconda3-4.3.27-Linux-x86_64.sh -o ~/anaconda.sh
 bash ~/anaconda.sh -b -p $condaDir
 rm ~/anaconda.sh
 
@@ -36,7 +36,7 @@ conda install -y pillow scipy
 conda install -y -c conda-forge xgboost
 
 # pytorch
-conda install pytorch torchvision -c pytorch
+conda install -y -c pytorch pytorch torchvision 
 
 # R
 conda config --system --append channels r &&
