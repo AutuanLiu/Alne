@@ -87,3 +87,11 @@
         </td>
     </tr>
 </table>
+
+### Usage
+```bash
+chmod +x *.sh
+```
+```bash
+./*.sh
+```

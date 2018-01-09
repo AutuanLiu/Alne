@@ -13,7 +13,7 @@ condaDir=~/softwares/conda
 # MiniConda install
 #curl -L https://repo.continuum.io/miniconda/Miniconda3-4.3.27-Linux-x86_64.sh -o ~/anaconda.sh
 bash ~/anaconda.sh -b -p $condaDir
-#rm ~/anaconda.sh
+rm ~/anaconda.sh
 
 # add to path
 export PATH=$condaDir/bin:$PATH
