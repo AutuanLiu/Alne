@@ -3,7 +3,7 @@
 
 ### detais
 
-<table border=3>
+<table>
     <tr>
         <th>name</th>
         <th>sftwares included</th>
