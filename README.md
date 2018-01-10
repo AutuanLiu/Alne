@@ -86,11 +86,37 @@
             golang install
         </td>
     </tr>
+    <tr>
+        <td>
+            R_RStudio_install.sh
+        </td>
+        <td>
+            R and RStudio install
+        </td>
+    </tr>
+    <tr>
+        <td>
+            nodejs_install.sh
+        </td>
+        <td>
+            nodejs install
+        </td>
+    </tr>
+    <tr>
+        <td>
+            wechat_install.sh
+        </td>
+        <td>
+            <a href="https://github.com/geeeeeeeeek/electronic-wechat">wechat install</a>
+        </td>
+    </tr>
 </table>
 
 ### Usage
 ```bash
 chmod +x *.sh
+# or for all user
+# chmod a+x *.sh
 ```
 ```bash
 ./*.sh

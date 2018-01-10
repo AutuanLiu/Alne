@@ -1,12 +1,12 @@
 #!/bin/bash
-# matlab2017b
+# matlab2017
 # autuanliu@163.com
 
 # download
-curl -O http://dl.downloadly.ir/Files/Software2/MathWorks_MATLAB_R2017b_Linux.part1_Downloadly.ir.rar
-curl -O http://dl.downloadly.ir/Files/Software2/MathWorks_MATLAB_R2017b_Linux.part2_Downloadly.ir.rar
-curl -O http://dl.downloadly.ir/Files/Software2/MathWorks_MATLAB_R2017b_Linux.part3_Downloadly.ir.rar
-curl -O http://dl.downloadly.ir/Files/Software2/MathWorks_MATLAB_R2017b_Linux.part4_Downloadly.ir.rar
-curl -O http://dl.downloadly.ir/Files/Software2/MathWorks_MATLAB_R2017b_Linux.part5_Downloadly.ir.rar
-curl -O http://dl.downloadly.ir/Files/Software2/MathWorks_MATLAB_R2017b_Linux.part6_Downloadly.ir.rar
-curl -O http://dl.downloadly.ir/Files/Software2/MathWorks_MATLAB_R2017b_Linux_Crack_Only_Downloadly.ir.rar
+# dvd1
+curl -O http://dl.downloadly.ir/Files/Software/Mathworks_Matlab_R2016_Linux_Downloadly.ir.part1.rar
+curl -O http://dl.downloadly.ir/Files/Software/Mathworks_Matlab_R2016_Linux_Downloadly.ir.part2.rar
+curl -O http://dl.downloadly.ir/Files/Software/Mathworks_Matlab_R2016_Linux_Downloadly.ir.part3.rar
+curl -O http://dl.downloadly.ir/Files/Software/Mathworks_Matlab_R2016_Linux_Downloadly.ir.part4.rar
+curl -O http://dl.downloadly.ir/Files/Software/Mathworks_Matlab_R2016_Linux_Downloadly.ir.part5.rar
+curl -O http://dl.downloadly.ir/Files/Software/Mathworks_Matlab_R2016b_Linux_Crack_Only_Downloadly.ir.rar
