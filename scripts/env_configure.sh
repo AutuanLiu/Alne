@@ -19,9 +19,9 @@ rm ~/anaconda.sh
 export PATH=$condaDir/bin:$PATH
 
 # channel set
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/ &&
-conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ &&
-conda config --set show_channel_urls yes
+sudo conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/ &&
+sudo conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ &&
+sudo conda config --set show_channel_urls yes
 
 # opencv
 sudo apt -qq install -y libsm6 libxext6 && pip install -q -U opencv-python &&
