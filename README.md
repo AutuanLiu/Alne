@@ -7,8 +7,6 @@
     <tr>
         <th>name</th>
         <th>sftwares included</th>
-    </tr>
-    <tr>
         <td>
             tools_install.sh
         </td>
@@ -32,8 +30,6 @@
         <td>
             install Docker
         </td>
-    </tr>
-    <tr>
         <td>
             env_configure.sh
         </td>
@@ -69,8 +65,6 @@
         <td>
                 netease music install
         </td>
-    </tr>
-    <tr>
         <td>
             pycharm_install.sh
         </td>
@@ -85,8 +79,6 @@
         <td>
             golang install
         </td>
-    </tr>
-    <tr>
         <td>
             R_RStudio_install.sh
         </td>
@@ -101,8 +93,6 @@
         <td>
             nodejs install
         </td>
-    </tr>
-    <tr>
         <td>
             wechat_install.sh
         </td>
