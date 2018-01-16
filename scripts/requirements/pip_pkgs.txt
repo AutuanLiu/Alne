@@ -20,4 +20,3 @@ flashtext
 Cython
 mkdocs
 pymdown-extensions
-

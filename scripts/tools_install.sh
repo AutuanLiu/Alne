@@ -4,7 +4,7 @@
 
 # curl, git install
 sudo apt update
-sudo apt install -y curl git nano tmux gdebi
+sudo apt install -y curl git nano tmux gdebi tree
 
 # vs code install
 curl -L https://go.microsoft.com/fwlink/?LinkID=760868 -o vscode.deb
