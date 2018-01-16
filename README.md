@@ -39,6 +39,9 @@
             </ul>
         </td>
         <td>
+            tools_install.sh
+        </td>
+        <td>
             <ul>
                 <li>curl</li>
                 <li>git</li>
@@ -50,28 +53,39 @@
     </tr>
     <tr>
         <td>
+            netease_music_install.sh
+        </td>
+        <td>
+            netease music install
+        </td>
+        <td>
             pycharm_install.sh
         </td>
         <td>
             pycharm install
         </td>
+    </tr>
+    <tr>
         <td>
             golang_install.sh
         </td>
         <td>
             golang install
         </td>
+        <td>
+            R_RStudio_install.sh
+        </td>
+        <td>
+            R and RStudio install
+        </td>
     </tr>
     <tr>
         <td>
-            tools_install.sh
+            nodejs_install.sh
         </td>
         <td>
-            netease_music_install.sh
+            nodejs install
         </td>
-        <td>
-            netease music install
-        </td>        
         <td>
             <ul>
                 <li>docker_install.sh
@@ -81,21 +95,7 @@
         <td>
             install Docker
         </td>
-    </tr>
-    <tr>
-        <td>
-            R_RStudio_install.sh
-        </td>
-        <td>
-            R and RStudio install
-        </td>
-        <td>
-            nodejs_install.sh
-        </td>
-        <td>
-            nodejs install
-        </td>
-    </tr>
+    </tr>    
     <tr>
         <td>
             wechat_install.sh
@@ -111,12 +111,14 @@
 </table>
 
 ### Usage
-
+1. 
 ```bash
 chmod +x *.sh
 # or for all user
 # chmod a+x *.sh
 ```
+2. 
+
 ```bash
 ./*.sh
 ```
