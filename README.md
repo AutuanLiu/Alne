@@ -7,6 +7,10 @@
     <tr>
         <th>name</th>
         <th>sftwares included</th>
+        <th>name</th>
+        <th>sftwares included</th>
+    </tr>
+    <tr>
         <td>
             tools_install.sh
         </td>
@@ -19,8 +23,6 @@
                 <li>gdebi</li>
             </ul>
         </td>
-    </tr>
-    <tr>
         <td>
             <ul>
                 <li>docker_install.sh
@@ -30,6 +32,8 @@
         <td>
             install Docker
         </td>
+    </tr>
+    <tr>
         <td>
             env_configure.sh
         </td>
@@ -57,47 +61,49 @@
                 <li>skorch, pandas, numpy</li>
             </ul>
         </td>
-    </tr>
-    <tr>
         <td>
             netease_music_install.sh
         </td>
         <td>
                 netease music install
         </td>
+    </tr>
+    <tr>
         <td>
             pycharm_install.sh
         </td>
         <td>
             pycharm install
         </td>
-    </tr>
-    <tr>
         <td>
             golang_install.sh
         </td>
         <td>
             golang install
         </td>
+    </tr>
+    <tr>
         <td>
             R_RStudio_install.sh
         </td>
         <td>
             R and RStudio install
         </td>
-    </tr>
-    <tr>
         <td>
             nodejs_install.sh
         </td>
         <td>
             nodejs install
         </td>
+    </tr>
+    <tr>
         <td>
             wechat_install.sh
         </td>
         <td>
             <a href="https://github.com/geeeeeeeeek/electronic-wechat">wechat install</a>
+        </td>
+        <td>
         </td>
     </tr>
 </table>
