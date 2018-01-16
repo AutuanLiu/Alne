@@ -104,8 +104,10 @@
             <a href="https://github.com/geeeeeeeeek/electronic-wechat">wechat install</a>
         </td>
         <td>
+            matlab.sh
         </td>
         <td>
+            <a href="https://downloadly.ir/">matlab download</a>
         </td>
     </tr>
 </table>

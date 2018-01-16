@@ -13,3 +13,4 @@ curl -O http://dl.downloadly.ir/Files/Software/Mathworks_Matlab_R2016b_Linux_Cra
 # other place
 # http://ftp.math.ncu.edu.tw/download/2017a/linux.zip
 # http://matlab.math.ncu.edu.tw/download.html
+# https://downloadly.ir/
