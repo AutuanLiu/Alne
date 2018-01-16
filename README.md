@@ -12,29 +12,6 @@
     </tr>
     <tr>
         <td>
-            tools_install.sh
-        </td>
-        <td>
-            <ul>
-                <li>curl</li>
-                <li>git</li>
-                <li>nano</li>
-                <li>tmux</li>
-                <li>gdebi</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>docker_install.sh
-                </li><li>docker_install1.sh</li>
-            </ul>
-        </td>
-        <td>
-            install Docker
-        </td>
-    </tr>
-    <tr>
-        <td>
             env_configure.sh
         </td>
         <td>
@@ -62,10 +39,13 @@
             </ul>
         </td>
         <td>
-            netease_music_install.sh
-        </td>
-        <td>
-                netease music install
+            <ul>
+                <li>curl</li>
+                <li>git</li>
+                <li>nano</li>
+                <li>tmux</li>
+                <li>gdebi</li>
+            </ul>
         </td>
     </tr>
     <tr>
@@ -80,6 +60,26 @@
         </td>
         <td>
             golang install
+        </td>
+    </tr>
+    <tr>
+        <td>
+            tools_install.sh
+        </td>
+        <td>
+            netease_music_install.sh
+        </td>
+        <td>
+            netease music install
+        </td>        
+        <td>
+            <ul>
+                <li>docker_install.sh
+                </li><li>docker_install1.sh</li>
+            </ul>
+        </td>
+        <td>
+            install Docker
         </td>
     </tr>
     <tr>
@@ -102,6 +102,8 @@
         </td>
         <td>
             <a href="https://github.com/geeeeeeeeek/electronic-wechat">wechat install</a>
+        </td>
+        <td>
         </td>
         <td>
         </td>
