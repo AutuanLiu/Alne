@@ -1,7 +1,8 @@
 # Alne
+
 :tada:One-click scripts for various complex Linux environment configurations, easy and effective
 
-### detais
+### Details
 
 <table>
     <tr>
@@ -113,19 +114,22 @@
 </table>
 
 ### Usage
-1. 
+1. step 1
 ```bash
+cd dir
 chmod +x *.sh
 # or for all user
 # chmod a+x *.sh
 ```
-2. 
+2. step 2
 
 ```bash
 ./*.sh
 ```
 
 ### Content
+
+* `tree `
 
 ```
 .
