@@ -7,9 +7,9 @@
 <table>
     <tr>
         <th>name</th>
-        <th>sftwares included</th>
+        <th>softwares included</th>
         <th>name</th>
-        <th>sftwares included</th>
+        <th>softwares included</th>
     </tr>
     <tr>
         <td>
@@ -49,6 +49,7 @@
                 <li>nano</li>
                 <li>tmux</li>
                 <li>gdebi</li>
+                <li>tree</li>
             </ul>
         </td>
     </tr>
