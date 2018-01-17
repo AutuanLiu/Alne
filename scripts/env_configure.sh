@@ -30,10 +30,10 @@ sudo apt -qq install -y libsm6 libxext6 && pip install -q -U opencv-python &&
 sudo apt -qq install -y graphviz && pip install -q pydot
 
 # conda pkgs install
-conda install -y pillow scipy ipython
+conda install -y pillow scipy ipython gcc
 
 # xgboost
-conda install -y -c conda-forge xgboost
+conda install -y -c conda-forge xgboost bprophet
 
 # pytorch
 conda install -y -c pytorch pytorch torchvision 
