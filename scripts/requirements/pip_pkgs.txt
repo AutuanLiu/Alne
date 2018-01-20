@@ -22,3 +22,4 @@ mkdocs
 pymdown-extensions
 rarfile
 tensorboardX
+visdom
