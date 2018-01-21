@@ -37,6 +37,7 @@
                 <li>matplotlib, seaborn</li>
                 <li>pipenv, sh, notedown</li>
                 <li>skorch, pandas, numpy</li>
+		<li>tensorboardx, visdom, darkon</li>
             </ul>
         </td>
         <td>
