@@ -25,3 +25,4 @@ tensorboardX
 visdom
 darkon
 tqdm
+ptpython

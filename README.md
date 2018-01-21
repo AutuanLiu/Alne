@@ -35,7 +35,7 @@
                 <li>scikit learn</li>
                 <li>imbalanced-learn</li>
                 <li>matplotlib, seaborn</li>
-                <li>pipenv, sh, notedown</li>
+                <li>pipenv, sh, notedown, ptpython</li>
                 <li>skorch, pandas, numpy, tqdm</li>
                 <li>tensorboardx, visdom, darkon</li>
             </ul>
