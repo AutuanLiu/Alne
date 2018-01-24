@@ -26,3 +26,4 @@ visdom
 darkon
 tqdm
 ptpython
+gym

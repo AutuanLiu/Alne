@@ -27,7 +27,7 @@
                 <li>jupyter notebook</li>
                 <li>tensorflow</li>
                 <li>tensorlayer</li>
-                <li>keras</li>
+                <li>keras, gym</li>
                 <li>scikit learn</li>
                 <li>imbalanced-learn</li>
                 <li>matplotlib, seaborn</li>
