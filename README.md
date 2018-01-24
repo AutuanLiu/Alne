@@ -18,14 +18,10 @@
         <td>
             <ul>
                 <li>Miniconda3</li>
-                <li>opencv</li>
-                <li>graphviz</li>
-                <li>pydot</li>
-                <li>pillow</li>
-                <li>scipy</li>
+                <li>opencv, graphviz</li>
+                <li>pydot, pillow, scipy</li>
                 <li>xgboost</li>
-                <li>pytorch</li>
-                <li>torchvision</li>
+                <li>pytorch, torchvision</li>
                 <li>R</li>
                 <li>autoenv</li>
                 <li>jupyter notebook</li>
