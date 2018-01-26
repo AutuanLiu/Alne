@@ -10,7 +10,8 @@ curl -O http://dl.downloadly.ir/Files/Software/Wolfram_Mathematica_v11.2.0_Linux
 curl -O http://dl.downloadly.ir/Files/Software/Wolfram_Mathematica_v11.2.0_Linux.part5_Downloadly.ir.rar
 
 # unzip
-# rar x Wolfram_Mathematica_v11.2.0_Linux.part1_Downloadly.ir.rar
+rar x Wolfram_Mathematica_v11.2.0_Linux.part1_Downloadly.ir.rar
+
 # rename mathematica
 
 # install
