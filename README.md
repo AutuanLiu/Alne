@@ -130,23 +130,24 @@ chmod +x *.sh
 * `tree `
 
 ```
-.
-├── LICENSE
-├── README.md
-└── scripts
-    ├── docker_install1.sh
-    ├── docker_install.sh
-    ├── env_configure.sh
-    ├── golang_install.sh
-    ├── matlab.sh
-    ├── netease_music_install.sh
-    ├── nodejs_install.sh
-    ├── pycharm_install.sh
-    ├── requirements
-    │   └── pip_pkgs.txt
-    ├── R_RStudio_install.sh
-    ├── tools_install.sh
-    └── wechat_install.sh
 
-2 directories, 14 files
+.
+├── docker_install1.sh
+├── docker_install.sh
+├── env_configure.sh
+├── golang_install.sh
+├── LICENSE
+├── mathematica.sh
+├── matlab.sh
+├── netease_music_install.sh
+├── nodejs_install.sh
+├── pycharm_install.sh
+├── README.md
+├── requirements
+│   └── pip_pkgs.txt
+├── R_RStudio_install.sh
+├── tools_install.sh
+└── wechat_install.sh
+
+1 directory, 15 files
 ```
