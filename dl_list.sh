@@ -36,6 +36,9 @@ https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y \
 https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists \
 https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
 
+# requirement
+pip install youtube-dl
+
 # 下载
 for url in ${urls[@]}
 do
