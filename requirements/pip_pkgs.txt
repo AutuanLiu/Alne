@@ -27,3 +27,4 @@ darkon
 tqdm
 ptpython
 gym
+niftynet
