@@ -132,6 +132,7 @@ chmod +x *.sh
 ```
 
 .
+├── dl_list.sh
 ├── docker_install1.sh
 ├── docker_install.sh
 ├── env_configure.sh
@@ -149,5 +150,5 @@ chmod +x *.sh
 ├── tools_install.sh
 └── wechat_install.sh
 
-1 directory, 15 files
+1 directory, 16 files
 ```
