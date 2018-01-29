@@ -109,6 +109,20 @@
             <a href="https://downloadly.ir/">matlab download</a>
         </td>
     </tr>
+        <tr>
+        <td>
+            dl_list.sh
+        </td>
+        <td>
+           useful deep learning and machie machine learning videos download
+        </td>
+        <td>
+            cuda8Cudnn75.sh
+        </td>
+        <td>
+            install cuda8 and cudnn 7.0.5
+        </td>
+    </tr>
 </table>
 
 ### Usage
@@ -130,8 +144,8 @@ chmod +x *.sh
 * `tree `
 
 ```
-
 .
+├── cuda8Cudnn75.sh
 ├── dl_list.sh
 ├── docker_install1.sh
 ├── docker_install.sh
@@ -150,5 +164,5 @@ chmod +x *.sh
 ├── tools_install.sh
 └── wechat_install.sh
 
-1 directory, 16 files
+1 directory, 17 files
 ```
