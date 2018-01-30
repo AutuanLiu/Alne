@@ -33,10 +33,16 @@ sudo apt -qq install -y graphviz && pip install -q pydot
 conda install -y pillow scipy ipython gcc
 
 # xgboost
-conda install -y -c conda-forge xgboost bprophet
+conda install -y -c conda-forge xgboost
 
 # pytorch
 conda install -y -c pytorch pytorch torchvision 
+
+# cudnn
+conda install -y -c anaconda cudnn
+
+# jupyter_contrib_nbextensions
+conda install -y -c conda-forge jupyter_contrib_nbextensions
 
 # R
 conda config --system --append channels r &&
