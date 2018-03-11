@@ -11,23 +11,26 @@
 condaDir=~/softwares/conda
 
 # MiniConda install
-curl -L https://repo.continuum.io/miniconda/Miniconda3-4.3.27-Linux-x86_64.sh -o ~/anaconda.sh
+# curl -L https://repo.continuum.io/miniconda/Miniconda3-4.3.27-Linux-x86_64.sh -o ~/anaconda.sh
+curl -L https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Linux-x86_64.sh -o ~/anaconda.sh
 bash ~/anaconda.sh -b -p $condaDir
 rm ~/anaconda.sh
 
 # add to path
-export PATH=$condaDir/bin:$PATH
+# export PATH=$condaDir/bin:$PATH
 
 # channel set
-sudo conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/ &&
-sudo conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ &&
-sudo conda config --set show_channel_urls yes
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/ &&
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ &&
+conda config --set show_channel_urls yes
 
 # opencv
-sudo apt -qq install -y libsm6 libxext6 && pip install -q -U opencv-python &&
+sudo apt -qq install -y libsm6 libxext6
+pip install -U opencv-python
+pip install pydot
 
 # graphviz
-sudo apt -qq install -y graphviz && pip install -q pydot
+sudo apt -qq install -y graphviz
 
 # conda pkgs install
 conda install -y pillow scipy ipython gcc
@@ -39,7 +42,7 @@ conda install -y -c conda-forge xgboost
 conda install -y -c pytorch pytorch torchvision 
 
 # cudnn
-conda install -y -c anaconda cudnn
+# conda install -y -c anaconda cudnn
 
 # jupyter_contrib_nbextensions
 conda install -y -c conda-forge jupyter_contrib_nbextensions
