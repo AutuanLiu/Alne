@@ -144,12 +144,15 @@ chmod +x *.sh
 * `tree `
 
 ```
+
 .
 ├── cuda8Cudnn75.sh
 ├── dl_list.sh
 ├── docker_install1.sh
 ├── docker_install.sh
 ├── env_configure.sh
+├── fork_sync.md
+├── get-docker.sh
 ├── golang_install.sh
 ├── LICENSE
 ├── mathematica.sh
@@ -164,5 +167,5 @@ chmod +x *.sh
 ├── tools_install.sh
 └── wechat_install.sh
 
-1 directory, 17 files
+1 directory, 19 files
 ```

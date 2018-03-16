@@ -6,7 +6,7 @@ $ git remote -v
 ```
 2. 为fork的项目配置分支
 ```bash
-$ git remote add upstream https://github.com/BootstrapCMS/CMS.git
+$ git remote add upstream https://github.com/**/***.git
 $ git remote -v
 ```
 3. 获取 upstream 分支到本地
