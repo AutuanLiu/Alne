@@ -21,6 +21,10 @@ $ git checkout master
 ```bash
 $ git merge upstream/master
 ```
+6. push
+```bash
+$ git push
+```
 
 **upstream 是原始仓库的名字**
 
